@@ -23,7 +23,7 @@ In this part, we want to have a Weather APP that uses data from the [Weather API
 
 The admin can also can also click on a day, and see its hourly forecast.
 
-2. Regular user: This account can log in the APP. He must also be able to edit his profile and select a city in which he is (the list of cities available must come from the list setup by the admin). The user can then see a 5-day weather forecast of the city he is in. He should also be able to click on a day an see its hourly forecast.
+2. Regular user: This account can log in the APP. He must also be able to edit his profile and select a city in which he is (the list of cities available must come from the list setup by the admin). The user can then see a 5-day weather forecast of the city he is in. He should also be able to click on a day an see its hourly forecast (the forecast for every 3 hours returned by the API).
 
 `NB.`
 - You may hard code the users in a file or use the `LocalStorage` to save the data. An actual database is not required.
